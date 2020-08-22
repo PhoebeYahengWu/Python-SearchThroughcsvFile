@@ -10,3 +10,6 @@
 
 3. If the CSV contains the user's movie then print out the title, what it is rated and the current user ratings
 
+## Output
+
+
