@@ -11,5 +11,6 @@
 3. If the CSV contains the user's movie then print out the title, what it is rated and the current user ratings
 
 ## Output
+![image](https://user-images.githubusercontent.com/52837649/90967000-1dde4a00-e4a7-11ea-9b8b-069f5a95495d.png)
 
 
